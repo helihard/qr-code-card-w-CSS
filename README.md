@@ -35,6 +35,8 @@ In repo.
 
 More insight into mobile-first workflow. When I first started coding, it was early days for smartphones (early 2000s) and I have just recently started getting into code again. There is much to catch up on – exciting!
 
+I am generally more in favour of relative length units, but in this challenge I found absolute lenght unit px easier to work with.
+
 
 ### Continued development
 
@@ -44,5 +46,5 @@ In future projects, I want to continue focusing on
 - responsive design in general
 - accessible design
 - flexbox (still more confident using grid)
-- getting more comfortable using git (still early days - apparently, I did not successfully commit at all stages of the process)
+- getting more familiar with git (still early days - apparently, I did not successfully commit at all stages of the process)
 - learning calc()
